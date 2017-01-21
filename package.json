@@ -1,0 +1,6 @@
+{
+  "description": "Sublime 2 plugin to swap text layout (similar to Punto Switcher)",
+  "license": "MIT",
+  "name": "sublime-swap-layout",
+  "repository": "https://github.com/el-even/sublime-swap-layout"
+}

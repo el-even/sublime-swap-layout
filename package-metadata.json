@@ -1,0 +1,10 @@
+{
+  "dependencies": [],
+  "description": "Sublime 2 plugin to swap text layout (similar to Punto Switcher)",
+  "platforms": [
+    "*"
+  ],
+  "sublime_text": "*",
+  "url": "https://github.com/el-even/sublime-swap-layout",
+  "version": "2017.01.21.01"
+}
