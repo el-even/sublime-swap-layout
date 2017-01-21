@@ -1,0 +1,9 @@
+[
+  {
+    "args": {
+      "dictionary_file": "qwertyjcuken.dict"
+    },
+    "caption": "Swap keyboard layout: QWERTY-JCUKEN",
+    "command": "swap_keyboard_layout"
+  }
+]
