@@ -3,13 +3,13 @@ SwapKeyboardLayout
 
 SwapKeyboardLayout is a plugin for Sublime Text 2 and 3
 (http://www.sublimetext.com/3) for swapping of selected text keyboard layout.
-It can be useful for _______
+It could be useful to quick decoding mistyped text if you don't see the screen while typing aor receive a message from a guy like that.
 
 This plugin is based on SublimeTranslit.
 
 Intented to be used via Command Palette or via Hotkey.
 
-Try openning Command Palette and typing "swap".
+Try to open Command Palette and type "swap".
 
 Creating Transliteration Dictionaries
 =====================================
